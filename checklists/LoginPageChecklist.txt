@@ -1,0 +1,5 @@
+[1] Login page is open
+[2] Login input works
+[3] Administrator input works
+[4] "Login" button is active
+[5] Error displaying incorrect data
