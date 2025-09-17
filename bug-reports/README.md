@@ -59,7 +59,7 @@ It demonstrates practical skills in bug reporting, defect lifecycle and communic
 
 ---
 
-📌 Each report includes:  
+ Each report includes:  
 - Environment  
 - Preconditions  
 - Steps to reproduce  
