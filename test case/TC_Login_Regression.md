@@ -1,0 +1,3 @@
+| **ID** | **Title** | **Preconditions** | **Steps** | **Expected result** | **Actual result** | **Status** | **Comment / Bug ID** |
+|--------|-----------|-------------------|------------|---------------------|-------------------|-------------|-----------------------|
+| TC_LOGIN_003 | Verify login works after bug fix (regression) | 1. User is registered in the system<br>2. Previous login issue was fixed<br>3. User is on the login page | 1. Enter valid username<br>2. Enter valid password<br>3. Click “Login” button | Login works correctly, user is authorized and redirected to the Dashboard | User is logged in successfully, no regression issue observed | ✅ Pass | Related bug: BR-002 
