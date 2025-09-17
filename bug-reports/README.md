@@ -1,11 +1,11 @@
-# 🐞 Bug Reports (Jira)
+#  Bug Reports (Jira)
 
 This folder contains examples of bug reports created and tracked in **Jira**.  
 It demonstrates practical skills in bug reporting, defect lifecycle and communication with dev teams.
 
 ---
 
-## 📌 Bug examples
+##  Bug examples
 
 ### BR-001: Compare products button is not clickable
 - **Severity:** High  
