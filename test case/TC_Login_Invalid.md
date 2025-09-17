@@ -1,0 +1,3 @@
+| **ID** | **Title** | **Preconditions** | **Steps** | **Expected result** | **Actual result** | **Status** | **Comment / Bug ID** |
+|--------|-----------|-------------------|------------|---------------------|-------------------|-------------|-----------------------|
+| TC_LOGIN_002 | Login with invalid credentials | User is on the login page, no active session | 1. Enter invalid username OR invalid password<br>2. Click “Login” button | System shows error message “Invalid username or password”<br>User is not logged in | System displayed error “Invalid username or password”, user remains on login page | ✅ Pass | - |
