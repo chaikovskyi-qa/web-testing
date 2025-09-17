@@ -16,7 +16,7 @@ It demonstrates practical skills in bug reporting, defect lifecycle and communic
   Compare button (scale icon) does not work. Clicking has no effect, product is not added to comparison list.  
 - **Status:** Open  
 - **Screenshot:**  
-![BR-001](jira-bug-compare.png)
+![BR-001](jira_bug_compare.png)
 
 ---
 
@@ -29,7 +29,7 @@ It demonstrates practical skills in bug reporting, defect lifecycle and communic
   Clicking "Laptop" button redirects user to "Phones" category. Parent element overrides button actions.  
 - **Status:** Resolved  
 - **Screenshot:**  
-![BR-002](jira-bug-logic.png)
+![BR-002](jira_bug_logic.png)
 
 ---
 
@@ -42,7 +42,7 @@ It demonstrates practical skills in bug reporting, defect lifecycle and communic
   "Buy Now" button has poor font color contrast → hard to see/read on mobile.  
 - **Status:** Open  
 - **Screenshot:**  
-![BR-003](jira-bug-mobile.png)
+![BR-003](jira-bug-faceit-buy-button.png)
 
 ---
 
@@ -55,7 +55,7 @@ It demonstrates practical skills in bug reporting, defect lifecycle and communic
   After relaunch, calculator shows previous history instead of clean state.  
 - **Status:** Waiting for customer / To review  
 - **Screenshot:**  
-![BR-004](jira-bug-calculator.png)
+![BR-004](jira_bug_calculator.png)
 
 ---
 
