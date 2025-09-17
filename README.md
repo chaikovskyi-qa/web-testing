@@ -3,10 +3,16 @@
 This repository contains examples of manual testing artifacts for web and mobile applications.
 
 ## 📂 Structure
-
 - [Checklists](./checklists)
 - [Test Cases](./test%20case)
 - [Bug Reports](./bug-reports)
+
+---
+
+## ✅ Checklists
+- [Login Checklist](./checklists/CL_Login.md)
+- [Cart Checklist](./checklists/CL_Cart.md)
+- [Mobile Checklist](./checklists/CL_Mobile.md)
 
 ---
 
