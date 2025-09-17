@@ -13,10 +13,9 @@ It includes **checklists**, **test cases**, and **bug reports** created during p
 ---
 
 ## Checklists
-- [Login Checklist](./checklists/Login_Checklist.md)  
-- [Cart Checklist](./checklists/Cart_Checklist.md)  
-- [Mobile Checklist](./checklists/Mobile_Checklist.md)  
-
+- [Login Checklist](./checklists/CL_Login.md)  
+- [Cart Checklist](./checklists/CL_Cart.md)  
+- [Mobile Checklist](./checklists/CL_mobile.md)  
 ---
 
 ## Test Cases
