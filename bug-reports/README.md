@@ -59,6 +59,20 @@ It demonstrates practical skills in bug reporting, defect lifecycle and communic
 
 ---
 
+### BR-005: Mobile bug - Red line above output
+- **Severity:** Medium  
+- **Priority:** High  
+- **Type:** UI/UX  
+- **Environment:** iPhone 11, iOS 16.6, Safari 16.5  
+- **Description:**  
+  Red line above the result  
+- **Status:** Waiting for customer / To review  
+- **Screenshot:**  
+![BR-005](jira-bug-red line above output.png)
+
+---
+
+
  Each report includes:  
 - Environment  
 - Preconditions  
