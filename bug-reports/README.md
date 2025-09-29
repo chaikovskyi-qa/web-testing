@@ -68,7 +68,8 @@ It demonstrates practical skills in bug reporting, defect lifecycle and communic
   Red line above the result  
 - **Status:** Waiting for customer / To review  
 - **Screenshot:**  
-![BR-005](jira-bug-red line above output.png)
+![BR-005](jira-bug-red line above output.png
+)
 
 ---
 
